@@ -2,6 +2,7 @@ import { Routes, Route, NavLink } from 'react-router-dom';
 import Catalog from './pages/Catalog';
 import ItemDetail from './pages/ItemDetail';
 import StatusList from './pages/StatusList';
+import About from './pages/About';
 import NotFound from './pages/NotFound';
 
 export default function App() {
@@ -17,6 +18,8 @@ export default function App() {
         <NavLink to="/list/done">Done</NavLink>
         {' | '}
         <NavLink to="/list/dropped">Dropped</NavLink>
+        {' | '}
+        <NavLink to="/about">About</NavLink>
       </nav>
 
       <main>
@@ -24,6 +27,7 @@ export default function App() {
           <Route path="/" element={<Catalog />} />
           <Route path="/items/:id" element={<ItemDetail />} />
           <Route path="/list/:status" element={<StatusList />} />
+          <Route path="/about" element={<About />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </main>

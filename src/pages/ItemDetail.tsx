@@ -1,3 +1,8 @@
+import { useParams } from 'react-router-dom';
+
 export default function ItemDetail() {
-  return <h1>Item detail page</h1>;
+  const { id } = useParams();
+  const numericId = Number(id);
+
+  return <h1>Item detail page — showing id: {numericId}</h1>;
 }
