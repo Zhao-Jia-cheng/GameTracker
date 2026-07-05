@@ -79,9 +79,9 @@ db.seed.json      # Untouched backup, restored via npm run reset-db
 _Add 1–3 screenshots here before submitting — e.g. the catalog grid, the item detail page, and dark mode. Take these after running `npm run reset-db` so the data shown is clean._
  
 ```md
-![Catalog](./screenshots/catalog.jpg)
-![Item Detail](./screenshots/detail.jpg)
-![Dark Mode](./screenshots/darkmode.jpg)
+![Catalog](./public/screenshots/catalog.jpg)
+![Item Detail](./public/screenshots/detail.jpg)
+![Dark Mode](./public/screenshots/darkmode.jpg)
 ```
  
 ## Stretch Features

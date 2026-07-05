@@ -10,7 +10,7 @@
       "rating": 5,
       "note": "Did I make you proud?",
       "imageUrl": "/covers/wuthering-waves.jpg",
-      "detailImageUrl": "/covers/wuthering-waves1.jpg"
+      "detailImageUrl": "/covers/wuthering-waves.jpg"
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
       "rating": 5,
       "note": "Penacony was peak, Evanescia #1",
       "imageUrl": "/covers/honkai-star-rail.jpg",
-      "detailImageUrl": "/covers/honkai-star-rail1.jpg"
+      "detailImageUrl": "/covers/honkai-star-rail.jpg"
     },
     {
       "id": 3,
@@ -30,8 +30,8 @@
       "creator": "HoYoverse",
       "year": 2024,
       "genre": "Gacha Action",
-      "status": "active",
-      "rating": 4,
+      "status": "want",
+      "rating": null,
       "note": "Shunguang #1",
       "imageUrl": "/covers/zenless-zone-zero.jpg",
       "detailImageUrl": "/covers/zenless-zone-zero.jpg"
@@ -42,8 +42,8 @@
       "creator": "Hypergryph",
       "year": 2025,
       "genre": "Gacha RPG",
-      "status": "dropped",
-      "rating": 3,
+      "status": "want",
+      "rating": null,
       "note": "Not enough content.",
       "imageUrl": "/covers/arknights-endfield.jpg",
       "detailImageUrl": "/covers/arknights-endfield.jpg"
@@ -103,8 +103,8 @@
       "year": 2009,
       "genre": "MOBA",
       "status": "active",
-      "rating": 5,
-      "note": "Can't end on a loss\n",
+      "rating": null,
+      "note": null,
       "imageUrl": "/covers/league-of-legends.jpg",
       "detailImageUrl": "/covers/league-of-legends.jpg"
     },
@@ -138,7 +138,7 @@
       "creator": "ConcernedApe",
       "year": 2016,
       "genre": "Simulation",
-      "status": "dropped",
+      "status": "active",
       "rating": null,
       "note": "Building up the farm slowly.",
       "imageUrl": "/covers/stardew-valley.jpg",
@@ -174,7 +174,7 @@
       "creator": "Unknown Studio (verify)",
       "year": 2024,
       "genre": "Gacha RPG",
-      "status": "dropped",
+      "status": "active",
       "rating": 3,
       "note": "Solid but generic gameplay.",
       "imageUrl": "/covers/sword-x-staff.jpg",
@@ -235,8 +235,8 @@
       "year": 2020,
       "genre": "Action RPG",
       "status": "dropped",
-      "rating": 5,
-      "note": "W wuwa collab\n",
+      "rating": 2,
+      "note": "Ran badly on my setup at launch.",
       "imageUrl": "/covers/cyberpunk-2077.jpg",
       "detailImageUrl": "/covers/cyberpunk-2077.jpg"
     },
