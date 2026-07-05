@@ -7,8 +7,10 @@
       "year": 2024,
       "genre": "Gacha RPG",
       "status": "active",
-      "rating": 10,
-      "note": "Did I make you proud"
+      "rating": 5,
+      "note": "Did I make you proud?",
+      "imageUrl": "/covers/wuthering-waves.jpg",
+      "detailImageUrl": "/covers/wuthering-waves1.jpg"
     },
     {
       "id": 2,
@@ -17,8 +19,10 @@
       "year": 2023,
       "genre": "Gacha RPG",
       "status": "active",
-      "rating": 8,
-      "note": "Penacony was peak, Evanescia #1"
+      "rating": 5,
+      "note": "Penacony was peak, Evanescia #1",
+      "imageUrl": "/covers/honkai-star-rail.jpg",
+      "detailImageUrl": "/covers/honkai-star-rail1.jpg"
     },
     {
       "id": 3,
@@ -26,9 +30,11 @@
       "creator": "HoYoverse",
       "year": 2024,
       "genre": "Gacha Action",
-      "status": "want",
-      "rating": 7,
-      "note": "Shunguang #1"
+      "status": "active",
+      "rating": 4,
+      "note": "Shunguang #1",
+      "imageUrl": "/covers/zenless-zone-zero.jpg",
+      "detailImageUrl": "/covers/zenless-zone-zero.jpg"
     },
     {
       "id": 4,
@@ -36,9 +42,11 @@
       "creator": "Hypergryph",
       "year": 2025,
       "genre": "Gacha RPG",
-      "status": "want",
-      "rating": 8,
-      "note": "Not enough content."
+      "status": "dropped",
+      "rating": 3,
+      "note": "Not enough content.",
+      "imageUrl": "/covers/arknights-endfield.jpg",
+      "detailImageUrl": "/covers/arknights-endfield.jpg"
     },
     {
       "id": 5,
@@ -47,8 +55,10 @@
       "year": 2003,
       "genre": "MMO",
       "status": "done",
-      "rating": 6,
-      "note": "Nostalgia."
+      "rating": 4,
+      "note": "Nostalgia run, hit level cap.",
+      "imageUrl": "/covers/maplestory.jpg",
+      "detailImageUrl": "/covers/maplestory.jpg"
     },
     {
       "id": 6,
@@ -57,8 +67,10 @@
       "year": 2007,
       "genre": "MMO",
       "status": "dropped",
-      "rating": 7,
-      "note": "Nostalgia."
+      "rating": 3,
+      "note": "Fell off after a server merge.",
+      "imageUrl": "/covers/elsword.jpg",
+      "detailImageUrl": "/covers/elsword.jpg"
     },
     {
       "id": 7,
@@ -68,7 +80,9 @@
       "genre": "Gacha RPG",
       "status": "dropped",
       "rating": 4,
-      "note": "Just listen to your playerbase or something"
+      "note": "Burned out on dailies.",
+      "imageUrl": "/covers/genshin-impact.jpg",
+      "detailImageUrl": "/covers/genshin-impact.jpg"
     },
     {
       "id": 8,
@@ -77,18 +91,22 @@
       "year": 2022,
       "genre": "Action RPG",
       "status": "done",
-      "rating": 8,
-      "note": "Best boss design in years."
+      "rating": 5,
+      "note": "Best boss design in years.",
+      "imageUrl": "/covers/elden-ring.jpg",
+      "detailImageUrl": "/covers/elden-ring.jpg"
     },
     {
       "id": 9,
-      "title": "League of legends",
-      "creator": "Riot games",
+      "title": "League of Legends",
+      "creator": "Riot Games",
       "year": 2009,
       "genre": "MOBA",
       "status": "active",
-      "rating": 9,
-      "note": "Can't end on a loss."
+      "rating": 5,
+      "note": "Can't end on a loss\n",
+      "imageUrl": "/covers/league-of-legends.jpg",
+      "detailImageUrl": "/covers/league-of-legends.jpg"
     },
     {
       "id": 10,
@@ -97,8 +115,10 @@
       "year": 2019,
       "genre": "JRPG",
       "status": "done",
-      "rating": 6,
-      "note": "Style and story both elite."
+      "rating": 5,
+      "note": "Style and story both elite.",
+      "imageUrl": "/covers/persona-5-royal.jpg",
+      "detailImageUrl": "/covers/persona-5-royal.jpg"
     },
     {
       "id": 11,
@@ -107,8 +127,10 @@
       "year": 2017,
       "genre": "Metroidvania",
       "status": "done",
-      "rating": 8,
-      "note": "Platforming masterclass."
+      "rating": 5,
+      "note": "Platforming masterclass.",
+      "imageUrl": "/covers/hollow-knight.jpg",
+      "detailImageUrl": "/covers/hollow-knight.jpg"
     },
     {
       "id": 12,
@@ -116,129 +138,155 @@
       "creator": "ConcernedApe",
       "year": 2016,
       "genre": "Simulation",
-      "status": "active",
+      "status": "dropped",
       "rating": null,
-      "note": "Building up the farm slowly."
+      "note": "Building up the farm slowly.",
+      "imageUrl": "/covers/stardew-valley.jpg",
+      "detailImageUrl": "/covers/stardew-valley.jpg"
     },
     {
       "id": 13,
+      "title": "NTE (Neverness to Everness)",
+      "creator": "NetEase Games",
+      "year": 2025,
+      "genre": "Gacha RPG",
+      "status": "active",
+      "rating": 4,
+      "note": "Open world exploration is gorgeous.",
+      "imageUrl": "/covers/nte-neverness-to-everness.jpg",
+      "detailImageUrl": "/covers/nte-neverness-to-everness.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Epic Seven",
+      "creator": "Super Creative",
+      "year": 2018,
+      "genre": "Gacha RPG",
+      "status": "active",
+      "rating": 4,
+      "note": "Great pixel art and PvP.",
+      "imageUrl": "/covers/epic-seven.jpg",
+      "detailImageUrl": "/covers/epic-seven.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Sword X Staff",
+      "creator": "Unknown Studio (verify)",
+      "year": 2024,
+      "genre": "Gacha RPG",
+      "status": "dropped",
+      "rating": 3,
+      "note": "Solid but generic gameplay.",
+      "imageUrl": "/covers/sword-x-staff.jpg",
+      "detailImageUrl": "/covers/sword-x-staff.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Crystal of Atlan",
+      "creator": "Camex Games (verify)",
+      "year": 2023,
+      "genre": "Gacha Action RPG",
+      "status": "active",
+      "rating": 3,
+      "note": "Diablo-like loop, decent grind.",
+      "imageUrl": "/covers/crystal-of-atlan.jpg",
+      "detailImageUrl": "/covers/crystal-of-atlan.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Blue Protocol: Star Resonance",
+      "creator": "NetEase Games (verify)",
+      "year": 2025,
+      "genre": "MMORPG",
+      "status": "active",
+      "rating": 3,
+      "note": "Still finding my footing.",
+      "imageUrl": "/covers/blue-protocol-star-resonance.jpg",
+      "detailImageUrl": "/covers/blue-protocol-star-resonance.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Heartopia",
+      "creator": "NetEase Games",
+      "year": 2025,
+      "genre": "Social Sim",
+      "status": "active",
+      "rating": 4,
+      "note": "Comfy hangout game.",
+      "imageUrl": "/covers/heartopia.jpg",
+      "detailImageUrl": "/covers/heartopia.jpg"
+    },
+    {
+      "id": 19,
       "title": "Hades",
       "creator": "Supergiant Games",
       "year": 2020,
       "genre": "Roguelike",
       "status": "done",
       "rating": 5,
-      "note": "Got the true ending."
+      "note": "Got the true ending.",
+      "imageUrl": "/covers/hades.jpg",
+      "detailImageUrl": "/covers/hades.jpg"
     },
     {
-      "id": 14,
-      "title": "Tears of the Kingdom",
-      "creator": "Nintendo",
-      "year": 2023,
-      "genre": "Action RPG",
-      "status": "want",
-      "rating": null,
-      "note": null
-    },
-    {
-      "id": 15,
+      "id": 20,
       "title": "Cyberpunk 2077",
       "creator": "CD Projekt Red",
       "year": 2020,
       "genre": "Action RPG",
       "status": "dropped",
-      "rating": 8,
-      "note": "I really want to stay at your house."
+      "rating": 5,
+      "note": "W wuwa collab\n",
+      "imageUrl": "/covers/cyberpunk-2077.jpg",
+      "detailImageUrl": "/covers/cyberpunk-2077.jpg"
     },
     {
-      "id": 16,
-      "title": "Disco Elysium",
-      "creator": "ZA/UM",
-      "year": 2019,
-      "genre": "RPG",
-      "status": "want",
-      "rating": null,
-      "note": "Heard the writing is unmatched."
-    },
-    {
-      "id": 17,
+      "id": 21,
       "title": "Undertale",
       "creator": "Toby Fox",
       "year": 2015,
       "genre": "RPG",
       "status": "done",
-      "rating": 8,
-      "note": "Pacifist run, obviously."
+      "rating": 4,
+      "note": "Pacifist run, obviously.",
+      "imageUrl": "/covers/undertale.jpg",
+      "detailImageUrl": "/covers/undertale.jpg"
     },
     {
-      "id": 18,
+      "id": 22,
       "title": "Terraria",
       "creator": "Re-Logic",
       "year": 2011,
       "genre": "Sandbox",
       "status": "dropped",
-      "rating": 7,
-      "note": "77th playthrough."
+      "rating": 3,
+      "note": "Lost interest post-Plantera.",
+      "imageUrl": "/covers/terraria.jpg",
+      "detailImageUrl": "/covers/terraria.jpg"
     },
     {
-      "id": 19,
+      "id": 23,
       "title": "Slay the Spire",
       "creator": "MegaCrit",
       "year": 2019,
       "genre": "Roguelike",
       "status": "active",
       "rating": null,
-      "note": "Trying to beat Ascension 15."
+      "note": "Trying to beat Ascension 15.",
+      "imageUrl": "/covers/slay-the-spire.jpg",
+      "detailImageUrl": "/covers/slay-the-spire.jpg"
     },
     {
-      "id": 20,
+      "id": 24,
       "title": "Ori and the Will of the Wisps",
       "creator": "Moon Studios",
       "year": 2020,
       "genre": "Metroidvania",
       "status": "want",
       "rating": null,
-      "note": null
-    },
-    {
-      "id": 21,
-      "title": "Celeste",
-      "creator": "Extremely OK Games",
-      "year": 2018,
-      "genre": "Platformer",
-      "status": "done",
-      "rating": 5,
-      "note": "Chapter 9 humbled me."
-    },
-    {
-      "id": 22,
-      "title": "Fire Emblem: Three Houses",
-      "creator": "Intelligent Systems",
-      "year": 2019,
-      "genre": "JRPG",
-      "status": "want",
-      "rating": null,
-      "note": null
-    },
-    {
-      "id": 23,
-      "title": "Overwatch 2",
-      "creator": "Blizzard Entertainment",
-      "year": 2022,
-      "genre": "Shooter",
-      "status": "dropped",
-      "rating": 3,
-      "note": "eh."
-    },
-    {
-      "id": 24,
-      "title": "Balatro",
-      "creator": "LocalThunk",
-      "year": 2024,
-      "genre": "Roguelike",
-      "status": "active",
-      "rating": null,
-      "note": "One more run syndrome is real."
+      "note": null,
+      "imageUrl": "/covers/ori-and-the-will-of-the-wisps.jpg",
+      "detailImageUrl": "/covers/ori-and-the-will-of-the-wisps.jpg"
     }
   ]
 }

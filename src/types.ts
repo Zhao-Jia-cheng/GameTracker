@@ -9,4 +9,6 @@ export interface Game {
   status: GameStatus;
   rating: number | null;
   note: string | null;
+  imageUrl: string | null;
+  detailImageUrl: string | null; 
 }
